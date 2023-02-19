@@ -18,9 +18,9 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2433" group="ABERTO" logo="https://static.sbt.com.br/programas/logos/126.jpg" aspect-ratio="16:9" size="Small", SBT
 https://server100.online/sbt/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=9683cb584f8af19923fa6a2dad9dd20e188b2e5c-00f3c71266311bab7eaa5a6eeb36e1b7-1676816935-1676809735
 #EXTINF:0 type="stream" channelId="2432" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/GLOBO.webp" aspect-ratio="16:9" size="Small", Globo
-https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=5e8ccea816a5271bdcccc929428f0d4b98511563-5c618a770bf871c599c6274ae8fb6354-1676816872-1676809672
+https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=1c4271c796865e3bf27d4f3002f845518f517249-be67e2120e24d1893e40748696f5b049-1676857319-1676850119
 #EXTINF:0 type="stream" channelId="-1" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/GLOBO.webp" size="Small", Globo
-https://br.embedflix.net/p2p/globosp_720p/chunks.m3u8?nimblesessionid=2879897&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDE6Mzc6MzggUE0maGFzaF92YWx1ZT1XUFg2cGNudjVNWFMzTlYybGtoWDJ3PT0mdmFsaWRtaW51dGVzPTkw
+https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=1c4271c796865e3bf27d4f3002f845518f517249-be67e2120e24d1893e40748696f5b049-1676857319-1676850119
 #EXTINF:0 type="stream" channelId="1031" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/RECORD.webp" aspect-ratio="16:9" size="Small", RecordTV
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 #EXTINF:0 type="stream" channelId="2435" group="ABERTO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b0baf19518fb782525c37b40c2f5d9b5.webp" aspect-ratio="16:9" size="Small", Rede TV
