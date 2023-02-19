@@ -7,6 +7,10 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1043348192.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ABERTO" logo="https://tvonline.fm/wp-content/uploads/2017/11/retro.jpeg" aspect-ratio="16:9" size="Small", Retrô TV clipes clássicos
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1906939199_b750000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VARIEDADE" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7nyc4FtDCOYBXLrsJWhhGKWT-relFxNiviJc4S37yctqIJYVfqAC3uFu7mWy1otgYaoL8Sex_YJ43Ub33Bkh4M2bxUnOyoFjdwInlknnZRmg9uBkF8N4ZI9yDs9Ho5bBMXdAFZDuHNEX5WWIRJI7QjC19fyIlEfBHjWHm5vysAK9WX0uqGuBRneeb/s200/WEB%20TV%20CL%C3%81SSICOS%20DO%20CINEMA.webp" aspect-ratio="16:9" size="Small", WEB TV CLÁSSICOS DO CINEMA
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1839477129.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VARIEDADES" logo="https://supertvaovivo.tv/wp-content/uploads/2022/12/HITS-TV-WEB-1.jpg" aspect-ratio="16:9" size="Small", HITS TV WEB
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1501545027.m3u8
 #EXTINF:0 type="stream" channelId="2467" group="ABERTO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp" aspect-ratio="16:9" size="Small", Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2454" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/FUTURA.webp" aspect-ratio="16:9" size="Small", Futura
@@ -30,7 +34,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2561" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/globonews.webp" aspect-ratio="16:9" size="Small", Globo News
 https://server100.online/globo-news/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=ea21f72c04ed241e8014278f863da1de8275930e-edfa172ab5284b63397a17ea4841d1d0-1676816766-1676809566
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/jovem-pan.webp" aspect-ratio="16:9" size="Small", Jovem Pan
-https://server100.online/jovem-pan/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=c64d866a2070dba90c11d184b435b32403cfbcb0-1954a1b944801504080fde94037443f5-1676817114-1676809914
+https://server100.online/jovem-pan/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=137670ccad2ad8b832cc1d9f080a83794adbe97c-0c29b7e4529dcc381a3c466cce663945-1676822024-1676818424
 #EXTINF:0 type="stream" channelId="2573" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/bandnews.webp" aspect-ratio="16:9" size="Small", Band News
 https://server100.online/band-news/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=2054c51bfe4bd95d7df41df3fb7cd21ac0024518-1a38bdda749b92d688f840133eca707f-1676817155-1676809955
 #EXTINF:0 type="stream" channelId="1330" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/HBO.webp" audio-track="https://tvfree.xyz/wp-content/uploads/2022/07/HBO.webp" aspect-ratio="16:9" size="Small", HBO
@@ -43,9 +47,5 @@ https://server100.online/hbo-family/tracks-v1a1/mono.m3u8?remote=201.8.153.205&t
 https://server100.online/tooncast/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=41ff825053e78ae60b8eff3c29ca5298281c9dfa-054a960a11d2cd64a812662f9ca41870-1676817383-1676813783
 #EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/Cartoon-Network-1.jpg" aspect-ratio="16:9" size="Small", Cartoon Network
 https://server100.online/cartoon/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=045ef0abd164b01ebad8eeaf624ece1a65e1d33a-ea41e5bd189f0505c65268d99d81d50d-1676817045-1676813445
-#EXTINF:0 type="stream" channelId="-1" group="VARIEDADES" logo="https://supertvaovivo.tv/wp-content/uploads/2022/12/HITS-TV-WEB-1.jpg" aspect-ratio="16:9" size="Small", HITS TV WEB
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1501545027.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/Disney-Channel-1.jpg" aspect-ratio="16:9" size="Small", Disney Channel
 https://server100.online/disney/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=be4d7ebc3dff68d0114017db4016cd569984c811-b021b62cdfe6d05d498fa589bb9eb82d-1676817455-1676813855
-#EXTINF:0 type="stream" channelId="-1" group="VARIEDADE" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7nyc4FtDCOYBXLrsJWhhGKWT-relFxNiviJc4S37yctqIJYVfqAC3uFu7mWy1otgYaoL8Sex_YJ43Ub33Bkh4M2bxUnOyoFjdwInlknnZRmg9uBkF8N4ZI9yDs9Ho5bBMXdAFZDuHNEX5WWIRJI7QjC19fyIlEfBHjWHm5vysAK9WX0uqGuBRneeb/s200/WEB%20TV%20CL%C3%81SSICOS%20DO%20CINEMA.webp" aspect-ratio="16:9" size="Small", WEB TV CLÁSSICOS DO CINEMA
-https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1839477129.m3u8
