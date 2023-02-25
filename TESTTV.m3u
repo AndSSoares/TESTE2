@@ -39,10 +39,12 @@ http://playfacil.net:80/addonplayfacil/addonplayfacil/61729
 http://playfacil.net:80/addonplayfacil/addonplayfacil/61732
 #EXTINF:0 type="stream" channelId="2573" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/bandnews.webp" aspect-ratio="16:9" size="Small", Band News HD
 http://playfacil.net:80/addonplayfacil/addonplayfacil/61717
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", HBO Full HEVC
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61981
 #EXTINF:0 type="stream" channelId="1330" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/HBO.webp" audio-track="https://tvfree.xyz/wp-content/uploads/2022/07/HBO.webp" aspect-ratio="16:9" size="Small", HBO
 http://playfacil.net:80/addonplayfacil/addonplayfacil/61983
 #EXTINF:0 type="stream" channelId="-1" group="HBO" aspect-ratio="16:9" size="Small", HBO+
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61979
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61977
 #EXTINF:0 type="stream" channelId="935" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/hbo2.webp" aspect-ratio="16:9" size="Small", HBO 2
 http://playfacil.net:80/addonplayfacil/addonplayfacil/61987
 #EXTINF:0 type="stream" channelId="2584" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/hbofamily.webp" aspect-ratio="16:9" size="Small", HBO Family
@@ -66,24 +68,32 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", CALIFORNIA MUSIC CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2900" aspect-ratio="16:9" size="Small", TNT HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61938
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61936
 #EXTINF:0 type="stream" channelId="2684", TNT Séries HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61942
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61940
 #EXTINF:0 type="stream" channelId="-1", Universal Channel HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61946
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61944
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", Warner Channel HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61950
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61948
 #EXTINF:0 type="stream" channelId="2603", Telecine Action HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61955
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61953
 #EXTINF:0 type="stream" channelId="2605" size="Small", Telecine Cult HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61959
-#EXTINF:0 type="stream" channelId="2606" aspect-ratio="16:9" size="Small", Telecine Fun 
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61963
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61957
+#EXTINF:0 type="stream" channelId="2606" aspect-ratio="16:9" size="Small", Telecine Fun
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61961
 #EXTINF:0 type="stream" channelId="2608" aspect-ratio="16:9" size="Small", Telecine Pipoca HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61967
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61965
 #EXTINF:0 type="stream" channelId="2610", Telecine Premium Full HEVC
 http://playfacil.net:80/addonplayfacil/addonplayfacil/61969
 #EXTINF:0 type="stream" channelId="2610" aspect-ratio="16:9" size="Small", Telecine Premium HD
 http://playfacil.net:80/addonplayfacil/addonplayfacil/61971
 #EXTINF:0 type="stream" channelId="2611" aspect-ratio="16:9" size="Small", Telecine Touch HD
-http://playfacil.net:80/addonplayfacil/addonplayfacil/61976
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61973
+#EXTINF:0 type="stream" channelId="1455" aspect-ratio="16:9" size="Small", History Channel
+http://playfacil.net:80/addonplayfacil/addonplayfacil/62126
+#EXTINF:0 type="stream" channelId="56", National Geographic Channel
+http://playfacil.net:80/addonplayfacil/addonplayfacil/62139
+#EXTINF:0 type="stream" channelId="67", TLC
+http://playfacil.net:80/addonplayfacil/addonplayfacil/62143
+#EXTINF:0 type="stream" channelId="1719", Paramount
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61895
