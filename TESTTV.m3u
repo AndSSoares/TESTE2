@@ -11,51 +11,79 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1906939199_b75
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1839477129.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="VARIEDADES" logo="https://supertvaovivo.tv/wp-content/uploads/2022/12/HITS-TV-WEB-1.jpg" aspect-ratio="16:9" size="Small", HITS TV WEB
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1501545027.m3u8
+#EXTINF:0 type="stream" channelId="4673", Canal Rural HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/62023
 #EXTINF:0 type="stream" channelId="2467" group="ABERTO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp" aspect-ratio="16:9" size="Small", Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2454" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/FUTURA.webp" aspect-ratio="16:9" size="Small", Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="2433" group="ABERTO" logo="https://static.sbt.com.br/programas/logos/126.jpg" aspect-ratio="16:9" size="Small", SBT
-https://server100.online/sbt/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=9683cb584f8af19923fa6a2dad9dd20e188b2e5c-00f3c71266311bab7eaa5a6eeb36e1b7-1676816935-1676809735
-#EXTINF:0 type="stream" channelId="2432" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/GLOBO.webp" aspect-ratio="16:9" size="Small", Globo
-https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=1c4271c796865e3bf27d4f3002f845518f517249-be67e2120e24d1893e40748696f5b049-1676857319-1676850119
-#EXTINF:0 type="stream" channelId="-1" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/GLOBO.webp" size="Small", Globo
-https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=1c4271c796865e3bf27d4f3002f845518f517249-be67e2120e24d1893e40748696f5b049-1676857319-1676850119
-#EXTINF:0 type="stream" channelId="1031" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/RECORD.webp" aspect-ratio="16:9" size="Small", RecordTV
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+#EXTINF:0 type="stream" channelId="2433" group="ABERTO" logo="https://static.sbt.com.br/programas/logos/126.jpg" aspect-ratio="16:9" size="Small", SBT SP HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61652
+#EXTINF:0 type="stream" channelId="2432" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/GLOBO.webp" aspect-ratio="16:9" size="Small", Globo SP Full HEVC
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61499
+#EXTINF:0 type="stream" channelId="2892" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/GLOBO.webp" size="Small", Globo SP Full HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61500
+#EXTINF:0 type="stream" channelId="1031" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/RECORD.webp" aspect-ratio="16:9" size="Small", Record SP HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61641
 #EXTINF:0 type="stream" channelId="2435" group="ABERTO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b0baf19518fb782525c37b40c2f5d9b5.webp" aspect-ratio="16:9" size="Small", Rede TV
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w483358048_b3076888.m3u8
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61646
 #EXTINF:0 type="stream" channelId="2437" group="ABERTO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e203baa61a997851f879286d0e262b59.webp" aspect-ratio="16:9" size="Small", TV Gazeta (Rede Gazeta)
-https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w286398353.m3u8
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61952
 #EXTINF:0 type="stream" channelId="2563" group="ABERTO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/BAND.webp" aspect-ratio="16:9" size="Small", Band
-https://sinalpublico.com/player3/mega5.php?canal=band&canals=https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/hls1/band-bk2/_index.m3u8?mu3zAQc9HC3GbwJq=vxtG96iVzit5ihDUhvAmVg&3U1G7qaTxrPbalZnEx=1676797816
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61629
 #EXTINF:0 type="stream" channelId="-1" group="ABERTO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0049b33f9d70ac2fbea58163c3053423.webp" aspect-ratio="16:9" size="Small", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2561" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/globonews.webp" aspect-ratio="16:9" size="Small", Globo News
-https://server100.online/globo-news/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=ea21f72c04ed241e8014278f863da1de8275930e-edfa172ab5284b63397a17ea4841d1d0-1676816766-1676809566
+#EXTINF:0 type="stream" channelId="2561" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/globonews.webp" aspect-ratio="16:9" size="Small", Globo News HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61729
 #EXTINF:0 type="stream" channelId="-1" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/jovem-pan.webp" aspect-ratio="16:9" size="Small", Jovem Pan
-https://server100.online/jovem-pan/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=91271031013d1b1e65f902eb5a4b959808e6a781-163742b0b401e2add3074d18149d05b0-1676864011-1676856811
-#EXTINF:0 type="stream" channelId="2573" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/bandnews.webp" aspect-ratio="16:9" size="Small", Band News
-https://server100.online/band-news/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=2054c51bfe4bd95d7df41df3fb7cd21ac0024518-1a38bdda749b92d688f840133eca707f-1676817155-1676809955
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61732
+#EXTINF:0 type="stream" channelId="2573" group="NOTICIAS" logo="https://tvfree.xyz/wp-content/uploads/2022/07/bandnews.webp" aspect-ratio="16:9" size="Small", Band News HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61717
 #EXTINF:0 type="stream" channelId="1330" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/HBO.webp" audio-track="https://tvfree.xyz/wp-content/uploads/2022/07/HBO.webp" aspect-ratio="16:9" size="Small", HBO
-https://server100.online/hbo/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=45e33f076c286d330a4c7b911bacf88739abb5e3-24935aa9b6a8f52bc15fe1f217cdc630-1676862341-1676855141  
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61983
 #EXTINF:0 type="stream" channelId="-1" group="HBO" aspect-ratio="16:9" size="Small", HBO+
-https://server100.online/hbo-plus/tracks-v1/mono.m3u8?remote=201.8.153.205&token=10d8f63f94d2e9fb3d4cd098f49c0cb9540ae60d-41cc88548b03f043d36aa8b270c7c538-1676862977-1676855777  
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61979
 #EXTINF:0 type="stream" channelId="935" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/hbo2.webp" aspect-ratio="16:9" size="Small", HBO 2
-https://server100.online/hbo2/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=54e37e3a29943cc918e79ee758c8799021e62a2d-dd05af43b7bde133e517f1985c15f138-1676862540-1676855340  
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61987
 #EXTINF:0 type="stream" channelId="2584" group="HBO" logo="https://tvfree.xyz/wp-content/uploads/2022/07/hbofamily.webp" aspect-ratio="16:9" size="Small", HBO Family
-https://server100.online/hbo-family/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=afc2ef918fdef557fad1a018ed029d3df29b14f0-c880ca57ce4db08919ccf35311bb1e71-1676862580-1676855380 
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61995
 #EXTINF:0 type="stream" channelId="2639" group="INFANTIL" logo="https://tvfree.xyz/wp-content/uploads/2022/07/Tooncast.webp" aspect-ratio="16:9" size="Small", Tooncast
-https://server100.online/tooncast/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=4a5441cd8636a35d0ca47890dbfddb3496ebbb25-e58b3a99be2830a93fc3942d435e73e8-1676863967-1676856767
-#EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/Cartoon-Network-1.jpg" aspect-ratio="16:9" size="Small", Cartoon Network
-https://server100.online/cartoon/index.m3u8?token=7346c1eb8c24ccdfd90b1ec9ffa21dd8b30463be-353cc6a40b4ac45ee0d41da004603bbe-1676863945-1676856745&remote=201.8.153.205
-#EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/Disney-Channel-1.jpg" aspect-ratio="16:9" size="Small", Disney Channel
-https://server100.online/disney/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=be4d7ebc3dff68d0114017db4016cd569984c811-b021b62cdfe6d05d498fa589bb9eb82d-1676817455-1676813855
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61706
+#EXTINF:0 type="stream" channelId="40" group="INFANTIL" logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/Cartoon-Network-1.jpg" aspect-ratio="16:9" size="Small", Cartoon Network
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61664
+#EXTINF:0 type="stream" channelId="19" group="INFANTIL" logo="https://supertvaovivo.tv/wp-content/uploads/2021/08/Disney-Channel-1.jpg" aspect-ratio="16:9" size="Small", Disney Channel
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61674
+#EXTINF:0 type="stream" channelId="334" aspect-ratio="16:9" size="Small", Nickelodeon HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61700
+#EXTINF:0 type="stream" channelId="2614" aspect-ratio="16:9" size="Small", TV Rá-Tim-Bum HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61710
+#EXTINF:0 type="stream" channelId="-1", Rede CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", Bob Esponja 24 HR
-https://server100.online/bob/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=64fc0cb1849796d178075f3e0c165390f601b59a-230d299d1363a45aec9feff4ef7fdd3c-1676863096-1676855896 
+https://server100.online/bob/tracks-v1a1/mono.m3u8?remote=201.8.153.205&token=64fc0cb1849796d178075f3e0c165390f601b59a-230d299d1363a45aec9feff4ef7fdd3c-1676863096-1676855896
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", RETRO MUSIC TELEVISION
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", CALIFORNIA MUSIC CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
+#EXTINF:0 type="stream" channelId="2900" aspect-ratio="16:9" size="Small", TNT HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61938
+#EXTINF:0 type="stream" channelId="2684", TNT Séries HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61942
+#EXTINF:0 type="stream" channelId="-1", Universal Channel HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61946
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", Warner Channel HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61950
+#EXTINF:0 type="stream" channelId="2603", Telecine Action HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61955
+#EXTINF:0 type="stream" channelId="2605" size="Small", Telecine Cult HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61959
+#EXTINF:0 type="stream" channelId="2606" aspect-ratio="16:9" size="Small", Telecine Fun 
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61963
+#EXTINF:0 type="stream" channelId="2608" aspect-ratio="16:9" size="Small", Telecine Pipoca HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61967
+#EXTINF:0 type="stream" channelId="2610", Telecine Premium Full HEVC
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61969
+#EXTINF:0 type="stream" channelId="2610" aspect-ratio="16:9" size="Small", Telecine Premium HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61971
+#EXTINF:0 type="stream" channelId="2611" aspect-ratio="16:9" size="Small", Telecine Touch HD
+http://playfacil.net:80/addonplayfacil/addonplayfacil/61976
